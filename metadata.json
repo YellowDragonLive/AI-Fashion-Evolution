@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Evolution",
+  "description": "A node-based generative fashion try-on app using Gemini 3 Pro Image Preview for 4K image generation.",
+  "requestFramePermissions": []
+}
